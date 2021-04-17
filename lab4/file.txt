@@ -1,0 +1,13 @@
+Hello world 123
+This is a test file 
+Hadoop is amazing!!
+I have installed hadoop on windows
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Line 10
+This marks the end of 10 lines
+Thank you
+Have a good day:)
